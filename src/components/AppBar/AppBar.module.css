@@ -1,0 +1,11 @@
+.header {
+  margin-top: 20px;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+
+  background-color: green;
+
+  margin-bottom: 30px;
+}
